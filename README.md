@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Precision medicine 
 Time-stamp: <2017-10-19 11:36:51>
 
@@ -26,3 +27,6 @@ Time-stamp: <2017-10-19 11:36:51>
 
 
 
+=======
+# precision_medicine
+>>>>>>> f4710f22e9fafb2be87ccceb1a154d5e01ea2933
