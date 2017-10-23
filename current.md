@@ -1,5 +1,9 @@
 # Current progresses
-Time-stamp: <2017-10-19 11:48:43>
+Time-stamp: <2017-10-23 10:15:38>
+
+## Clinic practice 
+1. (Mon Oct 23 10:09:39 PDT 2017) [Rare Tumor Clinic @UCSD](https://health.ucsd.edu/specialties/cancer/programs/personalized-therapy/Pages/rare-tumor.aspx): 
+   * ( Oct 16 2017): [Kato et al. 2017 The Oncologist](http://theoncologist.alphamedpress.org/content/early/2017/10/15/theoncologist.2017-0199.full.pdf+html): Matched theraphy n significantly longer progressionfree survival compared with last prior unmatched therapy. [HR](https://en.wikipedia.org/wiki/Hazard_ratio)=.26; 60% 20 month vs. <5 month.  
 
 ## Cancer gene therapy 
 
