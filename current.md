@@ -1,5 +1,6 @@
 # Current progresses
-Time-stamp: <2017-10-23 10:15:38>
+Time-stamp: "2017-10-23 10:18:32"
+
 
 ## Clinic practice 
 1. (Mon Oct 23 10:09:39 PDT 2017) [Rare Tumor Clinic @UCSD](https://health.ucsd.edu/specialties/cancer/programs/personalized-therapy/Pages/rare-tumor.aspx): 
