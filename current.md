@@ -1,7 +1,9 @@
 # Current progresses
-Time-stamp: "2017-11-07 23:29:08"
+Time-stamp: "2017-11-08 08:52:59"
 
 ## News
+* (Wed Nov 08  2017) [v.1.0.9 MyGeneRank](https://itunes.apple.com/us/app/mygenerank/id1232776286) app: ML based on 23andMe data and made by [Ali@Scripps](https://mygenerank.scripps.edu/)
+  * [developer's note](https://brianschrader.com/archive/mygenerank-behind-the-scenes-of-the-newest-researchkit-app/),[github](https://github.com/TorkamaniLab/mygenerank-api) 
 * (Tue Nov 07 2017) [AnchorDx](http://www.anchordx.com/Service16) got [28M in series B](https://www.crunchbase.com/organization/anchordx) 
   * cancer diagnose: [AnchorGPS](http://www.anchordx.com/Service16%5E26) based on ctDNA methylation. 
   * personalized theraph:[AnchorAIM](http://www.anchordx.com/Service17) SNP on feature genes 
