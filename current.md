@@ -1,6 +1,10 @@
 # Current progresses
-Time-stamp: "2017-10-23 10:18:32"
+Time-stamp: "2017-11-07 23:29:08"
 
+## News
+* (Tue Nov 07 2017) [AnchorDx](http://www.anchordx.com/Service16) got [28M in series B](https://www.crunchbase.com/organization/anchordx) 
+  * cancer diagnose: [AnchorGPS](http://www.anchordx.com/Service16%5E26) based on ctDNA methylation. 
+  * personalized theraph:[AnchorAIM](http://www.anchordx.com/Service17) SNP on feature genes 
 
 ## Clinic practice 
 1. (Mon Oct 23 10:09:39 PDT 2017) [Rare Tumor Clinic @UCSD](https://health.ucsd.edu/specialties/cancer/programs/personalized-therapy/Pages/rare-tumor.aspx): 
